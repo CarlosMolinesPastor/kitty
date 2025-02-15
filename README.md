@@ -1,4 +1,4 @@
-# KIITY
+# KITTY
 
  To install it copy and paste in your terminal :
 ```
